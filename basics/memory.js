@@ -21,13 +21,27 @@ const game =new String('subwaySurfers');
 
 // Numbers and Math
 
-console.log(Math.floor(Math.random() * 10) + 1);
+// console.log(Math.floor(Math.random() * 10) + 1);
 
 const min = 10;
 const max = 20;
 
-console.log(Math.floor(Math.random()*(max-min+1))+min);
+//console.log(Math.floor(Math.random()*(max-min+1))+min);
 
+// let mydate= new Date()
+// console.log(mydate.toString());
+// console.log(mydate.toDateString());
+// console.log(mydate.toLocaleString());
+
+// console.log(typeof mydate);
+// let mycreated =new Date(2023,0,6);
+// console.log(mycreated.toString());
+
+// let mycreatedDate =new Date("01-14-2024");
+// console.log(mycreatedDate.toString());
+
+
+// there exsists timestamp as well.
 
 
 
